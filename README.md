@@ -62,7 +62,7 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-%2300f0ff.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://blackboys.in"><img src="https://img.shields.io/badge/Portfolio-%2300f0ff.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/vinothR-Dev"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.artstation.com/vinothR-Dev"><img src="https://img.shields.io/badge/ArtStation-%2313AFF0.svg?style=for-the-badge&logo=artstation&logoColor=white" /></a>
 </p>
